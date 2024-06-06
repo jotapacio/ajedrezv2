@@ -2,7 +2,7 @@
 #include "boardgl.h"
 #include "glut.h"
 #include "board.h"
-
+//khjohju
 
 
 //AHORA SE COMEN LAS PIEZAS
